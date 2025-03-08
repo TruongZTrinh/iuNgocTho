@@ -208,4 +208,4 @@ function autoCreateHeart() {
   createHeart(x, y);
 }
 
-setInterval(autoCreateHeart, 500); // Tạo trái tim tự động mỗi 0.5 giây
+setInterval(autoCreateHeart, 300); // Tạo trái tim tự động mỗi 0.5 giây
